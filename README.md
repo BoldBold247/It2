@@ -1,11 +1,11 @@
 # It2
 <!DOCTYPE html>
-<html>
+<.html>
 <head>
-	<title>WHi</title>
+	<title>BoldBold</title>
 </head>
 <body>
 	<h1>Welcome to laboratory 1</h1>
-	<p>Мэдээлэл технологийн 2-р курсийн оюутан Болд</p>
+	<p>
 </body>
 </hdml>
